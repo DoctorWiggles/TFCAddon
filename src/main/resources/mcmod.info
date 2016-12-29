@@ -1,0 +1,29 @@
+[
+{
+
+  "modid": "justanothertfcaddon",
+
+  "name": "JustAnotherTFCAddon",
+
+  "description": "Does stuff",
+
+  "version": "${version}",
+ 
+ "mcversion": "${mcversion}",
+
+  "url": "",
+
+  "updateUrl": "",
+
+  "authorList": ["Wiggles"],
+
+  "credits": "",
+
+  "logoFile": "logo.png",
+
+  "screenshots": [],
+ 
+ "dependencies": []
+
+}
+]
